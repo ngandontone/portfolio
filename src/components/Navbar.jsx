@@ -14,7 +14,7 @@ const Navbar = ({menuOpen, setMenuOpen}) => {
             className='font-mono text-xl font-bold text-white'
           >
             {" "}
-            ngando<span className='text-red-500'>.tech</span>{" "}
+            Ngando<span className='text-red-500'>Ntone</span>{" "}
           </a>
 
           <div
@@ -27,25 +27,25 @@ const Navbar = ({menuOpen, setMenuOpen}) => {
           <div className='hidden md:flex items-center space-x-8'>
             <a
               href='#home'
-              className='text-gray-300 hover:text-white transition-colors'
+              className='text-red-500 hover:text-white transition-colors'
             >
               Home
             </a>
             <a
               href='#about'
-              className='text-gray-300 hover:text-white transition-colors'
+              className='text-red-500 hover:text-white transition-colors'
             >
               About
             </a>
             <a
               href='#projects'
-              className='text-gray-300 hover:text-white transition-colors'
+              className='text-red-500 hover:text-white transition-colors'
             >
               Projects
             </a>
             <a
               href='#contact'
-              className='text-gray-300 hover:text-white transition-colors'
+              className='text-red-500 hover:text-white transition-colors'
             >
               Contact
             </a>

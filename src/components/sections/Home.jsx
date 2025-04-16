@@ -15,7 +15,7 @@ const Home = () => {
 
           <p className='text-gray-400 text-lg mb-8 max-w-lg mx-auto'>
             I am a full stack developer residing in Chicago, IL who loves
-            solving problems with clean, but creative solutions.
+            solving problems with clean and creative solutions.
           </p>
           <div className='flex justify-center space-x-4'>
             <a
