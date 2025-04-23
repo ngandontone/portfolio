@@ -44,6 +44,14 @@ const Navbar = ({menuOpen, setMenuOpen}) => {
               Projects
             </a>
             <a
+              href='portfolio/Ngando-Resume.pdf'
+              target='_blank'
+              rel='noopener noreferrer'
+              className='text-red-500 hover:text-white transition-colors'
+            >
+              Resume
+            </a>
+            <a
               href='#contact'
               className='text-red-500 hover:text-white transition-colors'
             >
