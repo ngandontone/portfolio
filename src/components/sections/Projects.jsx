@@ -18,7 +18,7 @@ const Projects = () => {
               <h3 className='text-xl font-bold mb-2'>Dadle</h3>
               <p className='text-gray-400 mb-4'>
                 A "Dad Joke" game with similar functionality to the popular game
-                Wordle. Simple type with your keyboard and press enter to submit
+                Wordle. Simply type with your keyboard and press enter to submit
                 guesses.
               </p>
               <div className='flex flex-wrap gap-2 mb-4'>
